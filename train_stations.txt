@@ -3,54 +3,27 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 10796,010796,"Boggo Road station, platform 6",, -27.493937, 153.030206,1,https://translink.com.au/stop/010796/gtfs/,0,place_brse,6
 10797,010797,"PA Hospital station, platform 1",, -27.496767, 153.034195,1,https://translink.com.au/stop/010797/gtfs/,0,place_pahste,1
 10798,010798,"PA Hospital station, platform 2",, -27.496787, 153.033604,1,https://translink.com.au/stop/010798/gtfs/,0,place_pahste,2
-10802,010802,"Cultural Centre station, platform 1",, -27.473232, 153.019415,1,https://translink.com.au/stop/010802/gtfs/,0,place_ccbs,1
-10815,010815,"Greenslopes station, platform 2",, -27.511079, 153.040395,1,https://translink.com.au/stop/010815/gtfs/,0,place_grebs,2
-10816,010816,"Greenslopes station, platform 1",, -27.510793, 153.040072,1,https://translink.com.au/stop/010816/gtfs/,0,place_grebs,1
-10817,010817,"Holland Park West station, platform 2",, -27.528739, 153.057514,1,https://translink.com.au/stop/010817/gtfs/,0,place_hpwbs,2
-10818,010818,"Holland Park West station, platform 1",, -27.528343, 153.057272,1,https://translink.com.au/stop/010818/gtfs/,0,place_hpwbs,1
-10819,010819,"Griffith University station, platform 2",, -27.546738, 153.064682,1,https://translink.com.au/stop/010819/gtfs/,0,place_grunbs,2
-10820,010820,"Griffith University station, platform 1",, -27.546550, 153.064253,1,https://translink.com.au/stop/010820/gtfs/,0,place_grunbs,1
-10821,010821,"Upper Mt Gravatt station, platform 2",, -27.564228, 153.081751,1,https://translink.com.au/stop/010821/gtfs/,0,place_upmgbs,2
-10822,010822,"Upper Mt Gravatt station, platform 1",, -27.564032, 153.081286,1,https://translink.com.au/stop/010822/gtfs/,0,place_upmgbs,1
-10823,010823,"Eight Mile Plains station, platform 2",, -27.578702, 153.102071,1,https://translink.com.au/stop/010823/gtfs/,0,place_empbs,2
-10824,010824,"Eight Mile Plains station, platform 1",, -27.578465, 153.101772,1,https://translink.com.au/stop/010824/gtfs/,0,place_empbs,1
 11130,011130,"Toombul Shopping Centre station, platform A",, -27.408457, 153.060105,1,https://translink.com.au/stop/011130/gtfs/,0,place_inttbl,A
 11131,011131,"Toombul Shopping Centre station, platform F",, -27.408436, 153.059924,1,https://translink.com.au/stop/011131/gtfs/,0,place_inttbl,F
 11133,011133,"Toombul Shopping Centre station, platform B",, -27.408234, 153.060142,1,https://translink.com.au/stop/011133/gtfs/,0,place_inttbl,B
 11135,011135,"Toombul Shopping Centre station, platform E",, -27.408214, 153.059958,1,https://translink.com.au/stop/011135/gtfs/,0,place_inttbl,E
 11137,011137,"Toombul Shopping Centre station, platform C",, -27.408010, 153.060179,1,https://translink.com.au/stop/011137/gtfs/,0,place_inttbl,C
 11139,011139,"Toombul Shopping Centre station, platform D",, -27.407993, 153.060007,1,https://translink.com.au/stop/011139/gtfs/,0,place_inttbl,D
-11168,011168,"Cultural Centre station, platform 2",, -27.473452, 153.019127,1,https://translink.com.au/stop/011168/gtfs/,0,place_ccbs,2
-11269,011269,"Kedron Brook station, platform 2",, -27.415015, 153.035297,1,https://translink.com.au/stop/011269/gtfs/,0,place_kedbwy,2
-11270,011270,"Kedron Brook station, platform 1",, -27.415338, 153.035672,1,https://translink.com.au/stop/011270/gtfs/,0,place_kedbwy,1
-11271,011271,"Lutwyche station, platform 2",, -27.419910, 153.034251,1,https://translink.com.au/stop/011271/gtfs/,0,place_lutbwy,2
-11272,011272,"Lutwyche station, platform 1",, -27.420330, 153.034482,1,https://translink.com.au/stop/011272/gtfs/,0,place_lutbwy,1
-11408,011408,"Eight Mile Plains station, platform 2",, -27.578725, 153.102083,1,https://translink.com.au/stop/011408/gtfs/,0,place_empbs,2
-12111,012111,"Cultural Centre station, platform 3",, -27.474196, 153.017901,1,https://translink.com.au/stop/012111/gtfs/,0,place_ccbs,3
 13043,013043,"Inala station, platform A",, -27.598802, 152.974951,1,https://translink.com.au/stop/013043/gtfs/,0,place_inapla,A
 13044,013044,"Inala station, platform B",, -27.598964, 152.974885,1,https://translink.com.au/stop/013044/gtfs/,0,place_inapla,B
 13045,013045,"Inala station, platform C",, -27.599128, 152.974817,1,https://translink.com.au/stop/013045/gtfs/,0,place_inapla,C
 13056,013056,"Inala station, platform E",, -27.599170, 152.975013,1,https://translink.com.au/stop/013056/gtfs/,0,place_inapla,E
 19050,019050,"Woolloongabba station, platform 1",, -27.486079, 153.034648,1,https://translink.com.au/stop/019050/gtfs/,0,place_wogba,1
 19051,019051,"Mater Hill station, platform 1",, -27.484505, 153.028213,1,https://translink.com.au/stop/019051/gtfs/,0,place_mater,1
-19052,019052,"South Bank busway station, platform 1",, -27.480721, 153.021835,1,https://translink.com.au/stop/019052/gtfs/,0,place_sbank,1
 19062,019062,"Woolloongabba station, platform 2",, -27.486011, 153.035078,1,https://translink.com.au/stop/019062/gtfs/,0,place_wogba,2
 19063,019063,"Mater Hill station, platform 2",, -27.484413, 153.028393,1,https://translink.com.au/stop/019063/gtfs/,0,place_mater,2
-19064,019064,"South Bank busway station, platform 2",, -27.481023, 153.022209,1,https://translink.com.au/stop/019064/gtfs/,0,place_sbank,2
 2101,002101,"Brookside Shopping Centre station, platform C",, -27.408643, 152.977874,1,https://translink.com.au/stop/002101/gtfs/,0,place_brooks,C
 2192,002192,"Brookside Shopping Centre station, platform A",, -27.409984, 152.978651,1,https://translink.com.au/stop/002192/gtfs/,0,place_brooks,A
 2193,002193,"Brookside Shopping Centre station, platform B",, -27.409738, 152.978278,1,https://translink.com.au/stop/002193/gtfs/,0,place_brooks,B
-3001,003001,"Langlands Park station, platform 2",, -27.498513, 153.049707,1,https://translink.com.au/stop/003001/gtfs/,0,place_lapkbs,2
-3071,003071,"Langlands Park station, platform 1",, -27.498630, 153.049224,1,https://translink.com.au/stop/003071/gtfs/,0,place_lapkbs,1
-3072,003072,"Stones Corner station, platform 2",, -27.497829, 153.044650,1,https://translink.com.au/stop/003072/gtfs/,0,place_stcbs,2
-3091,003091,"Stones Corner station, platform 1",, -27.497811, 153.043994,1,https://translink.com.au/stop/003091/gtfs/,0,place_stcbs,1
 318126,318126,"Logan Central station, platform 1",, -27.642079, 153.114373,1,https://translink.com.au/stop/318126/gtfs/,0,place_logcen,1
 318127,318127,"Logan Central station, platform 2",, -27.641788, 153.114750,1,https://translink.com.au/stop/318127/gtfs/,0,place_logcen,2
 319805,319805,"North Lakes station, platform 2",, -27.237904, 153.017385,1,https://translink.com.au/stop/319805/gtfs/,0,place_nlksta,2
 319806,319806,"North Lakes station, platform 1",, -27.237832, 153.017735,1,https://translink.com.au/stop/319806/gtfs/,0,place_nlksta,1
-320687,320687,"Springwood station, platform 1",, -27.615057, 153.124979,1,https://translink.com.au/stop/320687/gtfs/,0,place_sprbst,1
-320688,320688,"Springwood station, platform 2",, -27.615083, 153.124573,1,https://translink.com.au/stop/320688/gtfs/,0,place_sprbst,2
-320689,320689,"Springwood station, platform 3",, -27.614567, 153.125314,1,https://translink.com.au/stop/320689/gtfs/,0,place_sprbst,3
 320836,320836,"Maroochydore station, platform 1",, -26.654874, 153.091325,1,https://translink.com.au/stop/320836/gtfs/,0,place_marstn,1
 320837,320837,"Maroochydore station, platform 2",, -26.654332, 153.090642,1,https://translink.com.au/stop/320837/gtfs/,0,place_marstn,2
 320838,320838,Kawana station platform 1,, -26.703752, 153.129201,1,https://translink.com.au/stop/320838/gtfs/,0,place_kawstn,1
@@ -59,10 +32,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 320841,320841,"Noosa Heads station, platform 2",, -26.388257, 153.091153,1,https://translink.com.au/stop/320841/gtfs/,0,place_nhdstn,2
 320846,320846,"UniSC station, platform 1",, -26.718769, 153.062003,1,https://translink.com.au/stop/320846/gtfs/,0,place_scuniv,1
 320847,320847,"UniSC station, platform 2",, -26.718459, 153.061769,1,https://translink.com.au/stop/320847/gtfs/,0,place_scuniv,2
-321172,321172,"Morayfield Shops bus station, platform 1",, -27.103113, 152.948692,1,https://translink.com.au/stop/321172/gtfs/,0,place_morstn,1
-321173,321173,"Morayfield Shops bus station, platform 2",, -27.103252, 152.949163,1,https://translink.com.au/stop/321173/gtfs/,0,place_morstn,2
-321945,321945,"Rochedale station, platform 2",, -27.592965, 153.111267,1,https://translink.com.au/stop/321945/gtfs/,0,place_rocbs,2
-321946,321946,"Rochedale station, platform 1",, -27.592831, 153.111058,1,https://translink.com.au/stop/321946/gtfs/,0,place_rocbs,1
 4174,004174,"Aspley Hypermarket station, platform D",, -27.363107, 153.012559,1,https://translink.com.au/stop/004174/gtfs/,0,place_asphyp,D
 4175,004175,"Aspley Hypermarket station, platform C",, -27.363110, 153.012681,1,https://translink.com.au/stop/004175/gtfs/,0,place_asphyp,C
 4193,004193,"Aspley Hypermarket station, platform B",, -27.363145, 153.012929,1,https://translink.com.au/stop/004193/gtfs/,0,place_asphyp,B
@@ -252,8 +221,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 600336,600336,"Riverview station, platform 2",, -27.594959, 152.850487,1,https://translink.com.au/stop/600336/gtfs/,0,place_rivsta,2
 600337,600337,"Dinmore station, platform 1",, -27.596336, 152.833564,1,https://translink.com.au/stop/600337/gtfs/,0,place_dinsta,1
 600338,600338,"Dinmore station, platform 2",, -27.596370, 152.833429,1,https://translink.com.au/stop/600338/gtfs/,0,place_dinsta,2
-600339,600339,"Ebbw Vale station, platform 1",, -27.603385, 152.822071,1,https://translink.com.au/stop/600339/gtfs/,0,place_ebbsta,1
-600340,600340,"Ebbw Vale station, platform 2",, -27.603418, 152.822014,1,https://translink.com.au/stop/600340/gtfs/,0,place_ebbsta,2
 600341,600341,"Bundamba station, platform 1",, -27.607479, 152.804772,1,https://translink.com.au/stop/600341/gtfs/,0,place_bunsta,1
 600342,600342,"Bundamba station, platform 2",, -27.607476, 152.804634,1,https://translink.com.au/stop/600342/gtfs/,0,place_bunsta,2
 600343,600343,"Booval station, platform 1",, -27.609331, 152.789665,1,https://translink.com.au/stop/600343/gtfs/,0,place_bvlsta,1
@@ -276,10 +243,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 600361,600361,"Thagoona station, platform 2",, -27.626865, 152.629895,1,https://translink.com.au/stop/600361/gtfs/,0,place_thasta,2
 600362,600362,"Rosewood station, platform 1",, -27.643222, 152.592522,1,https://translink.com.au/stop/600362/gtfs/,0,place_rossta,1
 600363,600363,"Rosewood station, platform 2",, -27.643177, 152.592650,1,https://translink.com.au/stop/600363/gtfs/,0,place_rossta,2
-600365,600365,"Albion station, platform 1",, -27.429359, 153.040389,1,https://translink.com.au/stop/600365/gtfs/,0,place_albsta,1
-600366,600366,"Albion station, platform 2",, -27.429310, 153.040437,1,https://translink.com.au/stop/600366/gtfs/,0,place_albsta,2
-600367,600367,"Albion station, platform 3",, -27.429272, 153.040336,1,https://translink.com.au/stop/600367/gtfs/,0,place_albsta,3
-600368,600368,"Albion station, platform 4",, -27.429240, 153.040367,1,https://translink.com.au/stop/600368/gtfs/,0,place_albsta,4
 600369,600369,"Windsor station, platform 1",, -27.435285, 153.028996,1,https://translink.com.au/stop/600369/gtfs/,0,place_winsta,1
 600370,600370,"Windsor station, platform 2",, -27.435384, 153.029017,1,https://translink.com.au/stop/600370/gtfs/,0,place_winsta,2
 600371,600371,"Wilston station, platform 1",, -27.436168, 153.019219,1,https://translink.com.au/stop/600371/gtfs/,0,place_wilsta,1
@@ -330,8 +293,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 600416,600416,"Nudgee station, platform 2",, -27.366135, 153.083384,1,https://translink.com.au/stop/600416/gtfs/,0,place_nudsta,2
 600417,600417,"Boondall station, platform 1",, -27.346311, 153.067589,1,https://translink.com.au/stop/600417/gtfs/,0,place_bdlsta,1
 600418,600418,"Boondall station, platform 2",, -27.346390, 153.067662,1,https://translink.com.au/stop/600418/gtfs/,0,place_bdlsta,2
-600419,600419,"North Boondall station, platform 1",, -27.338552, 153.060617,1,https://translink.com.au/stop/600419/gtfs/,0,place_nobsta,1
-600420,600420,"North Boondall station, platform 2",, -27.338627, 153.060656,1,https://translink.com.au/stop/600420/gtfs/,0,place_nobsta,2
 600421,600421,"Deagon station, platform 1",, -27.327813, 153.063212,1,https://translink.com.au/stop/600421/gtfs/,0,place_deasta,1
 600422,600422,"Deagon station, platform 2",, -27.327903, 153.063162,1,https://translink.com.au/stop/600422/gtfs/,0,place_deasta,2
 600423,600423,"Sandgate station, platform 2",, -27.322217, 153.069196,1,https://translink.com.au/stop/600423/gtfs/,0,place_sgtsta,2
@@ -382,9 +343,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 600473,600473,"Burpengary station, platform 2",, -27.162009, 152.957243,1,https://translink.com.au/stop/600473/gtfs/,0,place_bursta,2
 600474,600474,"Morayfield station, platform 1",, -27.110192, 152.952586,1,https://translink.com.au/stop/600474/gtfs/,0,place_myesta,1
 600475,600475,"Morayfield station, platform 2",, -27.110234, 152.952600,1,https://translink.com.au/stop/600475/gtfs/,0,place_myesta,2
-600476,600476,"Caboolture station, platform 1",, -27.082700, 152.953649,1,https://translink.com.au/stop/600476/gtfs/,0,place_cabstn,1
-600477,600477,"Caboolture station, platform 2",, -27.082742, 152.953669,1,https://translink.com.au/stop/600477/gtfs/,0,place_cabstn,2
-600478,600478,"Caboolture station, platform 3",, -27.082678, 152.953866,1,https://translink.com.au/stop/600478/gtfs/,0,place_cabstn,3
 600479,600479,"Elimbah station, platform 1",, -27.011494, 152.945527,1,https://translink.com.au/stop/600479/gtfs/,0,place_elmsta,1
 600480,600480,"Elimbah station, platform 2",, -27.011081, 152.945611,1,https://translink.com.au/stop/600480/gtfs/,0,place_elmsta,2
 600481,600481,"Beerburrum station, platform 2",, -26.959732, 152.959040,1,https://translink.com.au/stop/600481/gtfs/,0,place_bbrsta,2
@@ -474,11 +432,4 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6300,006300,"Carindale Shopping Centre station, platform H",, -27.503406, 153.103175,1,https://translink.com.au/stop/006300/gtfs/,0,place_intcar,H
 6302,006302,"Carindale Shopping Centre station, platform I",, -27.503672, 153.103131,1,https://translink.com.au/stop/006302/gtfs/,0,place_intcar,I
 6303,006303,"Carindale Shopping Centre station, platform J",, -27.503895, 153.103043,1,https://translink.com.au/stop/006303/gtfs/,0,place_intcar,J
-884,000884,"QUT Kelvin Grove station, platform 1",, -27.452432, 153.018201,1,https://translink.com.au/stop/000884/gtfs/,0,place_qukgbs,1
-889,000889,"QUT Kelvin Grove station, platform 2",, -27.451851, 153.018135,1,https://translink.com.au/stop/000889/gtfs/,0,place_qukgbs,2
-890,000890,"Herston station, platform 2",, -27.449792, 153.025330,1,https://translink.com.au/stop/000890/gtfs/,0,place_rchbs,2
-891,000891,"Herston station, platform 1",, -27.449862, 153.024912,1,https://translink.com.au/stop/000891/gtfs/,0,place_rchbs,1
-892,000892,"Normanby station, platform 2",, -27.458866, 153.015110,1,https://translink.com.au/stop/000892/gtfs/,0,place_normbs,2
-893,000893,"Normanby station, platform 1",, -27.459122, 153.015067,1,https://translink.com.au/stop/000893/gtfs/,0,place_normbs,1
-896,000896,"RBWH station, platform 2",, -27.446990, 153.029133,1,https://translink.com.au/stop/000896/gtfs/,0,place_rbwhp,2
-897,000897,"RBWH station, platform 1",, -27.447393, 153.029207,1,https://translink.com.au/stop/000897/gtfs/,0,place_rbwhp,1
+

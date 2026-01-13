@@ -11,13 +11,16 @@ def filter_station_platforms(input_file, output_file):
         
         # Find the index of stop_name column
         stop_name_index = header.index('stop_name')
+        parent_station_index = header.index('parent_station')
         
         # Filter rows where stop_name contains both 'station' and 'platform'
         filtered_rows = []
         for row in reader:
             stop_name = row[stop_name_index].lower()
+            parent_station = row[parent_station_index].lower()
             if 'station' in stop_name and 'platform' in stop_name:
-                filtered_rows.append(row)
+                if 'bus' not in stop_name and 'bs' not in parent_station and 'bwy' not in parent_station: 
+                    filtered_rows.append(row)
     
     # Write filtered data to output file
     with open(output_file, 'w', encoding='utf-8', newline='') as outfile:
