@@ -19,7 +19,7 @@ def filter_station_platforms(input_file, output_file):
             stop_name = row[stop_name_index].lower()
             parent_station = row[parent_station_index].lower()
             if 'station' in stop_name and 'platform' in stop_name:
-                if 'bus' not in stop_name and 'bs' not in parent_station and 'bwy' not in parent_station: 
+                # if 'bus' not in stop_name and 'bs' not in parent_station and 'bwy' not in parent_station: 
                     filtered_rows.append(row)
     
     # Write filtered data to output file
@@ -32,6 +32,6 @@ def filter_station_platforms(input_file, output_file):
     print(f"Output saved to: {output_file}")
 
 if __name__ == "__main__":
-    input_file = "stops.txt"
+    input_file = "filtered_stops.txt"
     output_file = "train_stations.txt"
     filter_station_platforms(input_file, output_file)
